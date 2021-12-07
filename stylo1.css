@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Corinthia&display=swap');
+
+footer {
+  font-family: 'Corinthia', cursive;
+  margin-left: 45%;
+  margin-right: 65%;
+  border: 1px solid;
+}
