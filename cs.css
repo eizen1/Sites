@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2? family = Spartan: wght @ 400; 500; 700 & display = swap');
+
+body {
+  display: flex;
+}
+
+aside {
+  background-color: black;
+  width: 720px;
+  height: 650px;
+}
+header svg {
+  width: 389px;
+  height: 94px;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+main {
+  width: 647px;
+  height: 102px;
+  margin-top: 70px;
+  margin-left: 50px;
+}
+h2 {
+  color: #04d361;
+  font-family: 'Spartan', Work Sans;
+}
+p {
+  color: aliceblue;
+  font-family: 'Spartan', Work Sans;
+}
+form {
+  color: aliceblue;
+
+  margin-left: 50px;
+  margin-top: 100px;
+}
+form label {
+  position: relative;
+  bottom: 15px;
+}
+input {
+  width: 720px;
+  height: 44px;
+  position: absolute;
+  border-left: 4px solid #04d361;
+  border-radius: 10px;
+  box-shadow: 5px 10px 10px #000;
+}
+button {
+  position: absolute;
+  left: 747px;
+  height: 49px;
+  color: #ffffff;
+  background-color: blueviolet;
+  border-radius: 0px 10px 10px 0px;
+}
+a {
+  position: relative;
+  width: 196px;
+  height: 24px;
+  top: 70px;
+  margin-left: 50px;
+  color: blueviolet;
+}
+a svg {
+  position: absolute;
+}
+footer img {
+  width: 720px;
+  height: 650px;
+}
